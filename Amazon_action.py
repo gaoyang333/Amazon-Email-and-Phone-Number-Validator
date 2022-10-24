@@ -30,7 +30,7 @@ class INDEx():
 		print("""
 		
 Script Started - 
-				By @ta9ra9pa9
+				By @facai9426
 		contact https://t.me/datanumbersunlimited
 		
 		""")
